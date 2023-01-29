@@ -1,0 +1,13 @@
+button{
+color:white;
+background-color:rgb(28, 162, 216);
+border:none;
+font-weight:bold;
+font-size:15px;
+width: 80px;
+height: 36px;
+border-radius:25px;
+}
+button:hover{
+    box-shadow:13px 13px 3px rgb(15, 10, 10);
+}
